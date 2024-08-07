@@ -12,4 +12,7 @@
 ![image](https://github.com/user-attachments/assets/e42afc1e-25ef-4bb0-aee1-a3672ce01f38)
 
 
+<h3>Datos almacenados en firestore</h3>
+
+![image](https://github.com/user-attachments/assets/c976938c-4835-48ef-8f6c-029d75c72c3b)
 
